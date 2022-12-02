@@ -1,6 +1,8 @@
 package byte_it.tictactoe;
 import byte_it.tictactoe.AI.AlphaBetaPruning;
 import byte_it.tictactoe.Game.*;
+import byte_it.tictactoe.UI.MenuCenter;
+import byte_it.tictactoe.UI.UIConstants;
 import javafx.animation.AnimationTimer;
 import javafx.application.Application;
 import javafx.event.ActionEvent;

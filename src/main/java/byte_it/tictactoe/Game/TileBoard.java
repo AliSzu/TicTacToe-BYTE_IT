@@ -1,5 +1,7 @@
 package byte_it.tictactoe.Game;
 
+import byte_it.tictactoe.UI.MenuCenter;
+import byte_it.tictactoe.UI.UIConstants;
 import javafx.scene.layout.GridPane;
 import lombok.Getter;
 import lombok.Setter;

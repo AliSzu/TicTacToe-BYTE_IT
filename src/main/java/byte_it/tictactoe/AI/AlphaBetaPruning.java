@@ -1,7 +1,7 @@
 package byte_it.tictactoe.AI;
 
 import byte_it.tictactoe.Game.TileBoard;
-import byte_it.tictactoe.Game.UIConstants;
+import byte_it.tictactoe.UI.UIConstants;
 
 import static byte_it.tictactoe.Game.Mark.*;
 

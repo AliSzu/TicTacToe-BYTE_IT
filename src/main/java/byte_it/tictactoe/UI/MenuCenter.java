@@ -1,5 +1,6 @@
-package byte_it.tictactoe.Game;
+package byte_it.tictactoe.UI;
 
+import byte_it.tictactoe.UI.UIConstants;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.geometry.Pos;

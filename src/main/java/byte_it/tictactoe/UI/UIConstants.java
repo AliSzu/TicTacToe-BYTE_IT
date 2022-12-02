@@ -1,4 +1,4 @@
-package byte_it.tictactoe.Game;
+package byte_it.tictactoe.UI;
 
 public class UIConstants {
     public static final int APP_WIDTH = 450;
