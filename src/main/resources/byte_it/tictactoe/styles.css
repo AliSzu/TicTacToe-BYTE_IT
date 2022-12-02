@@ -1,6 +1,33 @@
+#0, #3{
+    -fx-border-style: hidden solid solid hidden;
+}
+#1, #4{
+    -fx-border-style: hidden hidden solid hidden;
+}
+#2, #5{
+    -fx-border-style: hidden hidden solid solid;
+}
+#7
+{
+    -fx-border-style: hidden solid hidden solid;
+}
+#6, #8
+{
+    -fx-border-style: hidden hidden hidden hidden;
+}
+
 .button1 {
+    -fx-background-color: #202020ff;
+    -fx-border-color: #1de9b6ff;
     -fx-border-width: 1px; /* Green */
-    -fx-border-style: solid;
-    -fx-border-color: white;
-    -fx-background-color: red;
+    -fx-text-fill: white;
+    -fx-font-size: 40px;
+}
+.paneMenu {
+    -fx-background-color: #202020ff;
+}
+
+.paneText
+{
+    -fx-text-fill: white;
 }
